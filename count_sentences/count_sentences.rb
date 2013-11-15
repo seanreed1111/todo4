@@ -3,6 +3,6 @@
 
 class String
   def count_sentences
-    # code goes here
+    self.count "\?\!\."
   end
 end
