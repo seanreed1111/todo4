@@ -1,0 +1,6 @@
+#Includes_ashley?
+
+class Array
+	def includes_ashley?
+	self.include?("ashley")
+end
